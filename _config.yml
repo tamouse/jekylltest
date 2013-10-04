@@ -1,0 +1,6 @@
+name: Jekyll Test Site
+markdown: redcarpet
+pygments: true
+source: source
+destination: public
+
